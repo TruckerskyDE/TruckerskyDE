@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TruckerskyDE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TruckerskyDE/TruckerskyDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in nocode programing
+- 🌱 I’m currently learning in Poland
+- 💞️ I’m looking to collaborate on prestashop
+- 📫 Reach me here
